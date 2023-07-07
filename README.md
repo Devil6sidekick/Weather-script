@@ -1,2 +1,4 @@
 # Weather-script
-A Linux shell script that on run downloads the weather report for Casablanca and and adds to the table on a log file the observed weather and forecasted weather.
+A Linux shell script that on execution downloads the weather report for Casablanca from wttr.in/Casablanca as weather-raw-data-"currentdate".txt. 
+And adds to the table on the log file "poc.log" the observed temperature and forecasted temperature.
+
